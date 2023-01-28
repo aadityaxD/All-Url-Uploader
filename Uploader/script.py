@@ -26,10 +26,10 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hi {} 
-
-I am Powerful Url Uploader Bot
- 
+I Aᴍ A URL Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ Wɪᴛʜ Mᴀɴʏ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs. 
+Jᴜsᴛ Sᴇɴᴅ Yᴏᴜʀ Dɪʀᴇᴄᴛ Lɪɴᴋ Aɴᴅ Sᴇᴇ Wʜᴀᴛ Hᴀᴘᴘᴇɴs
+Pᴏᴡᴇʀᴇᴅ Bʏ @RevyChk
+Oᴡɴᴇʀ @SheNeverLikedMe
 """
 
     HELP_TEXT = """
@@ -45,18 +45,17 @@ I am Powerful Url Uploader Bot
 # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ 𝙈ʏ 𝙉ᴀᴍᴇ</b> : Ʀꫀꪜყ υяℓ 𝘽σт
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>🌀 𝘾ʜᴀɴɴᴇʟ</b> : <a href="https://t.me/Was_Aditya">︻デ═一 𝘼𝘼𝘿𝙄𝙏𝙔𝘼</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌺 𝙅ᴏɪɴ</b> : <a href="https://t.me/RevyChk">@RevyChk</a>
 
-<b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
+<b>📑 Lᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Python 3.10.5</a>
 
-<b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
+<b>🇵🇲 Fʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
-
+<b>👲 Dᴇᴠᴇʟᴏᴘᴇʀ :</b> <a href="https://t.me/SheNeverLikedMe">Λ∂ιтуα ⚡ [🇮🇳] [𝙸𝚅𝙰𝚁™]</a>
 """
 
     PROGRESS = """

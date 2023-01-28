@@ -47,4 +47,4 @@ class Config(object):
     # BOT_USERNAME = "AdvanceUrlUploaderBot"
 
     # auth users
-    AUTH_USERS = [OWNER_ID]
+    # AUTH_USERS = [OWNER_ID]
